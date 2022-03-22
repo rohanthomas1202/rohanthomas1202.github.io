@@ -1,8 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: A little about me
 ---
 
 My name is Rohan Thomas.  
 I am a Full Stack Developer
+More info coming soon ....
