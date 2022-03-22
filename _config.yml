@@ -37,21 +37,22 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "contact@thomasrohan.com"
+  github:  rohanthomas1202
+  linkedin: rohansthomas
+  telephone: +14695167477
+  discord: https://discordapp.com/users/299559564419006464/
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-  github:  rohanthomas1202
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-  linkedin: rohansthomas
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-  telephone: +4695167477
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -60,7 +61,7 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-  discord: EvilHedgehog#0078
+
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
