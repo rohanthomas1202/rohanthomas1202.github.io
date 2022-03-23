@@ -15,8 +15,12 @@ author: Rohan Thomas
 
 navbar-links:
   About Me: "aboutme"
+  Education: "education"
+  Work Experience: "work_experience"
+  Projects: "projects"
+  Skills: "skills"
   Contact: "contact"
-  Testing: "haha"
+  
 
 # --- Logo --- #
 
